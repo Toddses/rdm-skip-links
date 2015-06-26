@@ -29,6 +29,6 @@
   "repository" :
   {
     "type" : "git",
-    "url" : "git@github.com:Toddses/rdm-skip-links.git"
+    "url" : "http://github.com/Toddses/rdm-skip-links.git"
   }
 }
