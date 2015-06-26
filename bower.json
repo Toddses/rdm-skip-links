@@ -1,0 +1,34 @@
+{
+  "name": "rdm-skip-links",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Toddses/rdm-skip-links",
+  "authors": [
+    { "name" : "Todd Miller",
+      "homepage" : "http://rainydaymedia.net"
+    }
+  ],
+  "description": "Skip Link functionality using Velocity.js for animations.",
+  "main": [ "rdm-skip-link.js" ],
+  "keywords": [
+    "rainydaymedia",
+    "rdm",
+    "skiplink",
+    "javascript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "*.json",
+    "!/bower.json",
+    "LICENSE",
+    "*.md"
+  ],
+  "dependencies": {
+    "jquery": "*",
+    "velocity": "~1.2.2"
+  },
+  "repository" :
+  {
+    "type" : "git",
+    "url" : "git@github.com:Toddses/rdm-skip-links.git"
+  }
+}
